@@ -1,4 +1,3 @@
-//Test a new server.js functionality
 const express = require('express');
 const hbs = require('hbs');
 const fs = require('fs');
